@@ -1,0 +1,15 @@
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\bin\Debug\net8.0\Knapsack_1.exe
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\bin\Debug\net8.0\Knapsack_1.deps.json
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\bin\Debug\net8.0\Knapsack_1.runtimeconfig.json
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\bin\Debug\net8.0\Knapsack_1.dll
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\bin\Debug\net8.0\Knapsack_1.pdb
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\obj\Debug\net8.0\Knapsack_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\obj\Debug\net8.0\Knapsack_1.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\obj\Debug\net8.0\Knapsack_1.AssemblyInfo.cs
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\obj\Debug\net8.0\Knapsack_1.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\obj\Debug\net8.0\Knapsack_1.sourcelink.json
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\obj\Debug\net8.0\Knapsack_1.dll
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\obj\Debug\net8.0\refint\Knapsack_1.dll
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\obj\Debug\net8.0\Knapsack_1.pdb
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\obj\Debug\net8.0\Knapsack_1.genruntimeconfig.cache
+C:\Users\WIN 10\Desktop\QUIN\Buoi4\Knapsack\obj\Debug\net8.0\ref\Knapsack_1.dll
